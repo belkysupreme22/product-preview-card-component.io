@@ -4,8 +4,8 @@ This is my solution to the [Product preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://belkysupreme22.github.io/product-preview-card-component.io/]
+- Live Site URL: [https://belkysupreme22.github.io/product-preview-card-component.io/]
 
 ## My process
 
